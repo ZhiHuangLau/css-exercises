@@ -1,0 +1,12 @@
+.yep,
+.nope{
+  font-size: 28px;
+  font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.yep{
+  background-color: #000000;
+  color: #ffffff;
+}
+.nope{
+  background-color: yellow;
+}
